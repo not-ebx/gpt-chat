@@ -5,6 +5,8 @@
 - [ ] create profiles for smaller agents
 - [ ] Not sure if possible, but add openai functions?
 
+I'm also planning to remove playground since i see no use for it. Maybe to create agents to use on the chat, but other than that, i see no point in having it if i can add advanced config on the chat.
+
 
 # GPT-4 Playground
 
