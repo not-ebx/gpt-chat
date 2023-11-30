@@ -1,9 +1,9 @@
 # gpt-chat planned features
-[] add advanced config on the chat (temp, p, etc.) - Currently working on this
-[] add edit, delete
-[] handle errors as toasts or auto-deletable messages
-[] create profiles for smaller agents
-[] Not sure if possible, but add openai functions?
+- [ ] add advanced config on the chat (temp, p, etc.) - Currently working on this
+- [ ] add edit, delete
+- [ ] handle errors as toasts or auto-deletable messages
+- [ ] create profiles for smaller agents
+- [ ] Not sure if possible, but add openai functions?
 
 
 # GPT-4 Playground
